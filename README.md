@@ -13,3 +13,8 @@ The train and test dataset was collected in real-time from my classmates. For pr
 2. dlib : This library contains algorithms which is used to construct  face embeddings used for the actual recognition process.
 
 3. face_recognition: Recognize and manipulate faces from Python or from the command line with.
+
+# WORKING
+<br>
+<img src = "" />
+</br>
