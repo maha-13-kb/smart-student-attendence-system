@@ -16,5 +16,5 @@ The train and test dataset was collected in real-time from my classmates. For pr
 
 # WORKING
 <br>
-<img src = "" />
+<img src = "https://github.com/maha-13-kb/smart-student-attendence-system/blob/main/working_model.png" />
 </br>
