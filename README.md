@@ -1,4 +1,4 @@
-# SMART STUDENT STTENDENCE SYSTEM
+# SMART STUDENT ATTENDENCE SYSTEM
 An intelligent management system that uses the webcam to recognize the student’s face to manage the attendance records
 
 # ABSTRACT
